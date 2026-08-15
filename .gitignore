@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Build output
+target/
+build/
+out/
+
+# Node
+node_modules/
+
+# Java
+*.class
+
+# Generated files
+*.tmp
